@@ -12,3 +12,10 @@ En este laboratorio realicé los siguientes pasos:
 - Subí los cambios a la rama `main` en GitHub.
 
 Aprendí a trabajar con ramas y a fusionar cambios entre ramas.
+## Capturas del laboratorio
+
+![1](./capturas/1.png)
+![2](./capturas/2.png)
+![3](./capturas/3.png)
+![4](./capturas/4.png)
+![5](./capturas/5.png)
